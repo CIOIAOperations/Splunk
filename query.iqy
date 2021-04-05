@@ -1,0 +1,16 @@
+WEB
+1
+https://ts.accenture.com/sites/Outsourcing%20IT%20Services/IntelligentAutomation/_vti_bin/owssvr.dll?XMLDATA=1&List={888F739B-7EA0-4F2F-954D-6A22934154E8}&View={EFEFA237-6E25-48F8-8FD8-D2A70184910C}&RowLimit=0&RootFolder=%2fsites%2fOutsourcing%20IT%20Services%2fIntelligentAutomation%2fLists%2fRPA%20Bot%20Monitoring
+
+Selection={888F739B-7EA0-4F2F-954D-6A22934154E8}-{EFEFA237-6E25-48F8-8FD8-D2A70184910C}
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=https://ts.accenture.com/sites/Outsourcing%20IT%20Services/IntelligentAutomation/_vti_bin
+SharePointListView={EFEFA237-6E25-48F8-8FD8-D2A70184910C}
+SharePointListName={888F739B-7EA0-4F2F-954D-6A22934154E8}
+RootFolder=/sites/Outsourcing%20IT%20Services/IntelligentAutomation/Lists/RPA%20Bot%20Monitoring
